@@ -5,7 +5,7 @@ Participants:
 - Leader: [Name - ID]
 - Member: [Name - ID]
 - Member: [Name - ID]
-
+- Member: Nguyen Thi Ngoc Thao - 20521935
 
 Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
 
